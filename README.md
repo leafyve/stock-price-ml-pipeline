@@ -55,7 +55,7 @@ stock-price-ml-pipeline/
 | Ticker | AAPL |
 | Training Period | 2022 – 2024 |
 | Model | Random Forest Classifier |
-| Test Accuracy | XX% |
+| Test Accuracy | 63.54% |
 
 > Note: This project is for educational and portfolio purposes.
 > It is not intended as financial advice.
