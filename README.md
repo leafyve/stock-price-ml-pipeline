@@ -10,7 +10,7 @@ and evaluates next-day price direction prediction.
 ---
 
 ## Tech Stack
-- **Language:** Python 3.x
+- **Language:** Python 3.13
 - **ML:** scikit-learn (Random Forest Classifier)
 - **Data:** yfinance, Pandas, NumPy
 - **Visualisation:** Matplotlib, Seaborn
